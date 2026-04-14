@@ -1,0 +1,7 @@
+*
+!*/
+!.gitignore
+!*.py
+
+PT to Tflite/venv310/
+**/__pycache__/
