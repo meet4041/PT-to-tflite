@@ -3,6 +3,5 @@
 !.gitignore
 !*.py
 
-PT to Tflite/venv310/
 PT convertor/venv310/
 **/__pycache__/
